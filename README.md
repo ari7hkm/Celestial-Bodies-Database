@@ -1,5 +1,6 @@
 # Celestial Bodies Database
-This is a result to complete the Celestial Bodies Database project. Instructions for building this project can be found here: [Link] (https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
+This is a result to complete the Celestial Bodies Database project. Instructions for building this project can be found here:
+(https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
 
 ## CodeRoad
 <br>
